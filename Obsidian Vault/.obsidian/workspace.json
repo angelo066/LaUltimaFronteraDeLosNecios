@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "3a49249496894d38",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dfbe2e5c73a3b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5d63936af190cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1696e3f93151e711",
+    "type": "split",
+    "children": [
+      {
+        "id": "8765330363509a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6725971e48369746",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "998d6c2695caef6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc4fa169847216a1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0e9a3ee4ee0bea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "41459d87941c933e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e320c79c211ea64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19e1840ff68eeeee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b6f2cc9f4d8d549",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d32dc421f325214b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba5d63936af190cb",
+  "lastOpenFiles": [
+    "La última frontera de los necios/Trama.md",
+    "La última frontera de los necios/Versiculos interesantes.md",
+    "La última frontera de los necios/AA La última frontera de los necios.canvas",
+    "La última frontera de los necios/El tio de Miguel (Agricultor).md",
+    "La última frontera de los necios/Abuela.md",
+    "La última frontera de los necios/Alcalde.md",
+    "Templates/Personaje template.md",
+    "Templates",
+    "La última frontera de los necios/Villa Mayor de los sauces.md",
+    "La última frontera de los necios/Preguntas.md",
+    "La última frontera de los necios/Personajes.md",
+    "La última frontera de los necios/Mundo.md",
+    "La última frontera de los necios/Miguel.md",
+    "La última frontera de los necios/Lugares.md",
+    "La última frontera de los necios/Los gemelos.md",
+    "La última frontera de los necios/Libro 1.md",
+    "La última frontera de los necios/La tía de Miguel (Floristeria).md",
+    "La última frontera de los necios/El pueblo.md",
+    "La última frontera de los necios/El padre de Miguel.md",
+    "La última frontera de los necios/Cura negro (Manuel).md",
+    "La última frontera de los necios",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Versiculos interesantes.md",
+    "LaUltimaFronteraDeLosNecios/Templates/Personaje template.md",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Trama.md",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Lugares.md",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Libro 1.md",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/El pueblo.md",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Alcalde.md",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/AA La última frontera de los necios.canvas",
+    "LaUltimaFronteraDeLosNecios/Templates",
+    "LaUltimaFronteraDeLosNecios/La última frontera de los necios",
+    "LaUltimaFronteraDeLosNecios",
+    "Nueva carpeta",
+    "Untitled 1.canvas"
+  ]
+}

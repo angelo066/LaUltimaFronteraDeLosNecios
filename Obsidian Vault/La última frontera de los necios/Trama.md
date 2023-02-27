@@ -1,0 +1,4 @@
+Imposicion cultural
+Capitalismo
+Inspiración
+Realismo Mágico
