@@ -1,4 +1,6 @@
 #Personaje #Libro1 
+Padre de [[Miguel]]
+
 Jose
 Calmado, sosegado, pero mal hablado
 Iniciativa

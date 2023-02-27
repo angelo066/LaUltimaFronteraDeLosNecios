@@ -10,7 +10,3 @@ Le acogió un cura blanco que se apiadó de él(El padre Martín).
 Se acaba volviendo modo diablo full furioso porque la vida es tremenda mierda
 
 
-## Notas relacionadas:
-----
-[[Libro 1]]
-[[Personajes]]

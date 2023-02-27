@@ -4,9 +4,8 @@ Asi como teatrero
 Rastero
 Avaro
 Gordo
+Racista
+Odia a [[Cura negro (Manuel)]]
 
-## Notas relacionadas:
-----
-[[Libro 1]]
-[[Personajes]]
+
 
