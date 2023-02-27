@@ -11,8 +11,12 @@
             "id": "ba5d63936af190cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "La última frontera de los necios/El pueblo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "La última frontera de los necios/El pueblo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "La última frontera de los necios/El pueblo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "La última frontera de los necios/El pueblo.md"
+              }
             }
           }
         ],
@@ -140,26 +148,26 @@
   },
   "active": "ba5d63936af190cb",
   "lastOpenFiles": [
+    "La última frontera de los necios/Cura negro (Manuel).md",
+    "La última frontera de los necios/Alcalde.md",
+    "La última frontera de los necios/Libro 1.md",
+    "La última frontera de los necios/Los gemelos.md",
+    "La última frontera de los necios/Miguel.md",
+    "La última frontera de los necios/Mundo.md",
+    "La última frontera de los necios/El tio de Miguel (Agricultor).md",
+    "La última frontera de los necios/Personajes.md",
     "La última frontera de los necios/Trama.md",
     "La última frontera de los necios/Versiculos interesantes.md",
     "La última frontera de los necios/AA La última frontera de los necios.canvas",
-    "La última frontera de los necios/El tio de Miguel (Agricultor).md",
     "La última frontera de los necios/Abuela.md",
-    "La última frontera de los necios/Alcalde.md",
     "Templates/Personaje template.md",
     "Templates",
     "La última frontera de los necios/Villa Mayor de los sauces.md",
     "La última frontera de los necios/Preguntas.md",
-    "La última frontera de los necios/Personajes.md",
-    "La última frontera de los necios/Mundo.md",
-    "La última frontera de los necios/Miguel.md",
     "La última frontera de los necios/Lugares.md",
-    "La última frontera de los necios/Los gemelos.md",
-    "La última frontera de los necios/Libro 1.md",
     "La última frontera de los necios/La tía de Miguel (Floristeria).md",
     "La última frontera de los necios/El pueblo.md",
     "La última frontera de los necios/El padre de Miguel.md",
-    "La última frontera de los necios/Cura negro (Manuel).md",
     "La última frontera de los necios",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Versiculos interesantes.md",
     "LaUltimaFronteraDeLosNecios/Templates/Personaje template.md",
