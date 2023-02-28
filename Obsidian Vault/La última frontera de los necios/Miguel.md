@@ -6,7 +6,3 @@ Le tiene asco a la ciudad de cuando se fue a estudiar y vio que aquello era trem
 Así, como un poquito tsundere ya que nos ponemos
 Anota cosas de forma poetica
 
-## Notas relacionadas:
-----
-[[Libro 1]]
-[[Personajes]]

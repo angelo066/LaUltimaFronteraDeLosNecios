@@ -1,26 +1,30 @@
 {
 	"nodes":[
-		{"type":"file","file":"La última frontera de los necios/Libro 1.md","id":"2591b3903827e06f","x":-1221,"y":-923,"width":400,"height":400,"color":"#42e236"},
-		{"type":"file","file":"La última frontera de los necios/Trama.md","id":"1897c4baeca27758","x":-920,"y":-439,"width":400,"height":303,"color":"#00228a"},
-		{"type":"file","file":"La última frontera de los necios/Mundo.md","id":"cddc8f1696ab3782","x":-640,"y":-923,"width":400,"height":399,"color":"#83aedd"},
-		{"type":"file","file":"La última frontera de los necios/Lugares.md","id":"a897e6ef23c59ba3","x":-1120,"y":40,"width":400,"height":400,"color":"#c4cf2a"},
-		{"type":"file","file":"La última frontera de los necios/Villa Mayor de los sauces.md","id":"b5f69618370892ca","x":-1320,"y":600,"width":400,"height":400},
 		{"type":"file","file":"La última frontera de los necios/Personajes.md","id":"c0e1c0a8f3dc8c55","x":1400,"y":-1104,"width":400,"height":580,"color":"#a53fca"},
-		{"type":"file","file":"La última frontera de los necios/El padre de Miguel.md","id":"ecc5017cabd45a9c","x":1400,"y":-287,"width":400,"height":400},
-		{"type":"file","file":"La última frontera de los necios/Miguel.md","id":"4d2c54afaa1e944d","x":1400,"y":560,"width":400,"height":400},
 		{"type":"file","file":"La última frontera de los necios/Cura negro (Manuel).md","id":"a8e89e4b8db4a10b","x":2480,"y":-687,"width":400,"height":400},
-		{"type":"file","file":"La última frontera de los necios/Alcalde.md","id":"16233cd148e26b48","x":200,"y":-724,"width":400,"height":400},
-		{"type":"file","file":"La última frontera de los necios/La tía de Miguel (Floristeria).md","id":"b2c234b0f839fd46","x":720,"y":-287,"width":400,"height":400},
-		{"type":"file","file":"La última frontera de los necios/El tio de Miguel (Agricultor).md","id":"6744f7313ce64dc7","x":2040,"y":-287,"width":400,"height":400},
-		{"id":"78553a203b4490f1","x":-437,"y":-1479,"width":400,"height":400,"color":"5","type":"file","file":"La última frontera de los necios/Versiculos interesantes.md"}
+		{"type":"file","file":"La última frontera de los necios/Villa Mayor de los sauces.md","id":"b5f69618370892ca","x":-1621,"y":640,"width":400,"height":400},
+		{"id":"b5f6afcc9d4967aa","x":-720,"y":640,"width":400,"height":400,"type":"file","file":"La última frontera de los necios/El pueblo.md"},
+		{"type":"file","file":"La última frontera de los necios/El padre de Miguel.md","id":"ecc5017cabd45a9c","x":1400,"y":200,"width":400,"height":400},
+		{"type":"file","file":"La última frontera de los necios/Miguel.md","id":"4d2c54afaa1e944d","x":1400,"y":1047,"width":400,"height":400},
+		{"type":"file","file":"La última frontera de los necios/El tio de Miguel (Agricultor).md","id":"6744f7313ce64dc7","x":2040,"y":200,"width":400,"height":400},
+		{"type":"file","file":"La última frontera de los necios/La tía de Miguel (Floristeria).md","id":"b2c234b0f839fd46","x":720,"y":200,"width":400,"height":400},
+		{"id":"d0c5923d6b1eb2a9","x":1400,"y":-324,"width":400,"height":400,"type":"file","file":"La última frontera de los necios/Abuela.md"},
+		{"type":"file","file":"La última frontera de los necios/Alcalde.md","id":"16233cd148e26b48","x":320,"y":-687,"width":400,"height":400},
+		{"type":"file","file":"La última frontera de los necios/Libro 1.md","id":"2591b3903827e06f","x":-1621,"y":-924,"width":400,"height":400,"color":"#42e236"},
+		{"type":"file","file":"La última frontera de los necios/Mundo.md","id":"cddc8f1696ab3782","x":-720,"y":-923,"width":400,"height":399,"color":"#83aedd"},
+		{"type":"file","file":"La última frontera de los necios/Trama.md","id":"1897c4baeca27758","x":-1221,"y":-438,"width":501,"height":303,"color":"#00228a"},
+		{"type":"file","file":"La última frontera de los necios/Lugares.md","id":"a897e6ef23c59ba3","x":-1170,"y":0,"width":400,"height":400,"color":"#c4cf2a"},
+		{"type":"file","file":"La última frontera de los necios/Versiculos interesantes.md","id":"78553a203b4490f1","x":-1221,"y":-1504,"width":501,"height":400,"color":"5"}
 	],
 	"edges":[
-		{"id":"3d8397afbc06fd8f","fromNode":"c0e1c0a8f3dc8c55","fromSide":"bottom","toNode":"ecc5017cabd45a9c","toSide":"top"},
 		{"id":"e3bfdd00c30316b5","fromNode":"a897e6ef23c59ba3","fromSide":"bottom","toNode":"b5f69618370892ca","toSide":"top"},
 		{"id":"eea82f689b1b357e","fromNode":"ecc5017cabd45a9c","fromSide":"bottom","toNode":"4d2c54afaa1e944d","toSide":"top"},
 		{"id":"aa074fb26a9204b7","fromNode":"c0e1c0a8f3dc8c55","fromSide":"right","toNode":"a8e89e4b8db4a10b","toSide":"top"},
 		{"id":"d34472793da11339","fromNode":"c0e1c0a8f3dc8c55","fromSide":"left","toNode":"16233cd148e26b48","toSide":"top"},
 		{"id":"f688423fdf2c8d33","fromNode":"ecc5017cabd45a9c","fromSide":"left","toNode":"b2c234b0f839fd46","toSide":"right"},
-		{"id":"4c48de8c1ac3e435","fromNode":"ecc5017cabd45a9c","fromSide":"right","toNode":"6744f7313ce64dc7","toSide":"left"}
+		{"id":"4c48de8c1ac3e435","fromNode":"ecc5017cabd45a9c","fromSide":"right","toNode":"6744f7313ce64dc7","toSide":"left"},
+		{"id":"75fe1558e4d95426","fromNode":"a897e6ef23c59ba3","fromSide":"bottom","toNode":"b5f6afcc9d4967aa","toSide":"top"},
+		{"id":"46f6a60eb02a2a1a","fromNode":"c0e1c0a8f3dc8c55","fromSide":"bottom","toNode":"d0c5923d6b1eb2a9","toSide":"top"},
+		{"id":"37463be8610a1396","fromNode":"d0c5923d6b1eb2a9","fromSide":"bottom","toNode":"ecc5017cabd45a9c","toSide":"top"}
 	]
 }

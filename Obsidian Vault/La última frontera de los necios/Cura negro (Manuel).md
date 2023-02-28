@@ -5,7 +5,7 @@ Tremendamente mamado
 Sus padres murieron durante la guerra
 Le acogió un cura blanco que se apiadó de él(El padre Martín).
 
-
+Le gusta estar solo
 
 Se acaba volviendo modo diablo full furioso porque la vida es tremenda mierda
 

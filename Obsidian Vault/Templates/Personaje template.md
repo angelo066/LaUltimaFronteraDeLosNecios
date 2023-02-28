@@ -2,8 +2,3 @@
 Nombre:
 Peso:
 Culo:
-
-## Notas relacionadas:
-----
-[[Libro 1]]
-[[Personajes]]

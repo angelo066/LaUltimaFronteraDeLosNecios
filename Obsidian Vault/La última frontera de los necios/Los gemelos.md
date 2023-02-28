@@ -6,7 +6,3 @@ Pedro tiene el ojo izquierdo azul y el derecho verde.
 Lo que Elisa ve por el ojo verde lo ve pedro.
 Lo que Pedro ve por el ojo azul lo ve Elisa
 
-## Notas relacionadas:
-----
-[[Libro 1]]
-[[Personajes]]
