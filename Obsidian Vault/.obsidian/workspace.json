@@ -11,11 +11,14 @@
             "id": "ba5d63936af190cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "La última frontera de los necios/El padre de Miguel.md",
-                "mode": "source",
-                "source": false
+                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
+                "viewState": {
+                  "x": 629.5,
+                  "y": -28.5,
+                  "zoom": -1.9561207593706171
+                }
               }
             }
           },
@@ -109,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La última frontera de los necios/El padre de Miguel.md",
+                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La última frontera de los necios/El padre de Miguel.md",
+                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La última frontera de los necios/El padre de Miguel.md"
+                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas"
               }
             }
           }
@@ -171,6 +174,7 @@
   },
   "active": "ba5d63936af190cb",
   "lastOpenFiles": [
+    "La última frontera de los necios/El padre de Miguel.md",
     "La última frontera de los necios/AA La última frontera de los necios.canvas",
     "Templates/Lugar template.md",
     "Templates/Personaje template.md",
@@ -179,7 +183,6 @@
     "La última frontera de los necios/Versiculos interesantes.md",
     "La última frontera de los necios/Abuela.md",
     "La última frontera de los necios/Miguel.md",
-    "La última frontera de los necios/El padre de Miguel.md",
     "La última frontera de los necios/Trama.md",
     "La última frontera de los necios/Preguntas.md",
     "La última frontera de los necios/Personajes.md",
