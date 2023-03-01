@@ -9,4 +9,4 @@ Le gusta estar solo
 
 Se acaba volviendo modo diablo full furioso porque la vida es tremenda mierda
 
-
+"Y entonces todas sus preguntas se vieron respondidas, porque la vida, es una auténtica mierda"
