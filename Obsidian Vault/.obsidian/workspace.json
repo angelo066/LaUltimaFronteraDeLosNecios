@@ -16,21 +16,9 @@
                 "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
                 "viewState": {
                   "x": 629.5,
-                  "y": -66.5,
-                  "zoom": -1.9561207593706171
+                  "y": -28.5,
+                  "zoom": -1.881215950356726
                 }
-              }
-            }
-          },
-          {
-            "id": "ea77cbd6aaa4d370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La última frontera de los necios/Helena.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -148,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +151,8 @@
   "active": "ba5d63936af190cb",
   "lastOpenFiles": [
     "La última frontera de los necios/Helena.md",
-    "Templates/Personaje template.md",
     "La última frontera de los necios/AA La última frontera de los necios.canvas",
+    "Templates/Personaje template.md",
     "Templates/Lugar template.md",
     "La última frontera de los necios/El padre de Miguel.md",
     "La última frontera de los necios/Villa Mayor de los sauces.md",
