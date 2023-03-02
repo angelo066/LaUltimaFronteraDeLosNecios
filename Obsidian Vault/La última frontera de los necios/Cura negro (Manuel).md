@@ -1,4 +1,5 @@
 #Personaje #Libro1 
+47 años
 Su nombre real es Abasi(severo), pero no lo dice porque la gente es tremendamente racista
 Tremendamente mamado
 

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3dfbe2e5c73a3b22",
+        "id": "8215febedc900135",
         "type": "tabs",
         "children": [
           {
-            "id": "ba5d63936af190cb",
+            "id": "1b300b018608e7fd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
                 "viewState": {
-                  "x": 629.5,
-                  "y": -28.5,
-                  "zoom": -1.899580717765293
+                  "x": 1435,
+                  "y": 145,
+                  "zoom": 0
                 }
               }
             }
@@ -148,9 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba5d63936af190cb",
+  "active": "1b300b018608e7fd",
   "lastOpenFiles": [
     "La última frontera de los necios/AA La última frontera de los necios.canvas",
+    "La última frontera de los necios/El abuelo.md",
     "La última frontera de los necios/Helena.md",
     "Templates/Personaje template.md",
     "Templates/Lugar template.md",
@@ -177,7 +178,6 @@
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Versiculos interesantes.md",
     "LaUltimaFronteraDeLosNecios/Templates/Personaje template.md",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Trama.md",
-    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Lugares.md",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/AA La última frontera de los necios.canvas",
     "LaUltimaFronteraDeLosNecios/Templates",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios",

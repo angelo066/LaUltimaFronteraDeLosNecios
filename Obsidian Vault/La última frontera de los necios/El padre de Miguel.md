@@ -1,4 +1,5 @@
 #Personaje #Libro1 
+45 años
 Padre de [[Miguel]]
 Hijo de [[Abuela]]
 Hermano Mayor de [[El tio de Miguel (Agricultor)]] y de [[La tía de Miguel (Floristeria)]]

@@ -7,4 +7,6 @@ Juan Domínguez, general del dictador durante la guerra
 
 Worl building en capítulo 3
 
+Food Emperor = Burguer King
+
 Recordar sobre todo lo de la corona
