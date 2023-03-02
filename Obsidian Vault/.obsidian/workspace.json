@@ -15,32 +15,20 @@
               "state": {
                 "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
                 "viewState": {
-                  "x": 2680,
-                  "y": -487,
-                  "zoom": 0
+                  "x": 629.5,
+                  "y": -66.5,
+                  "zoom": -1.9561207593706171
                 }
               }
             }
           },
           {
-            "id": "80411c1e6f9b5bcf",
+            "id": "ea77cbd6aaa4d370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Personaje template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4bf4863819b11a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Lugar template.md",
+                "file": "La última frontera de los necios/Helena.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,10 +162,11 @@
   },
   "active": "ba5d63936af190cb",
   "lastOpenFiles": [
-    "La última frontera de los necios/El padre de Miguel.md",
+    "La última frontera de los necios/Helena.md",
+    "Templates/Personaje template.md",
     "La última frontera de los necios/AA La última frontera de los necios.canvas",
     "Templates/Lugar template.md",
-    "Templates/Personaje template.md",
+    "La última frontera de los necios/El padre de Miguel.md",
     "La última frontera de los necios/Villa Mayor de los sauces.md",
     "La última frontera de los necios/Paquito.md",
     "La última frontera de los necios/Versiculos interesantes.md",
@@ -201,7 +190,6 @@
     "LaUltimaFronteraDeLosNecios/Templates/Personaje template.md",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Trama.md",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Lugares.md",
-    "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Libro 1.md",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/AA La última frontera de los necios.canvas",
     "LaUltimaFronteraDeLosNecios/Templates",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios",
