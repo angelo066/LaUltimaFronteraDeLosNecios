@@ -11,3 +11,4 @@ Se roba el erchivo del abuelo de [[Miguel]]
 El archivo lo escribió e[[El abuelo]]
 
 El archivo tiene sangre porque [[Paquito]] lo había cogido para hacerle un homenaje al abuelo, y cuando lo matan le salpica sangre.
+Helena confunde la mancha de sangre pensando que se de [[El abuelo]]

@@ -1,3 +1,4 @@
+5 años duró la guerra
 El abuelo luchó en la guerra civil, ganó el dictador.
 La estatua la pusieron en los últimos años por "Piedad" del dictador
 
