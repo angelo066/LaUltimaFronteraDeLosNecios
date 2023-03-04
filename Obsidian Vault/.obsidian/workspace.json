@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62223f7c32b97220",
+        "id": "64bab5afcd3a1bde",
         "type": "tabs",
         "children": [
           {
-            "id": "fa7298ae72006cbb",
+            "id": "354a81b074f0b7b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
-                "viewState": {
-                  "x": 629.5,
-                  "y": 71.5,
-                  "zoom": -1.899580717765293
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,7 +141,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa7298ae72006cbb",
+  "active": "354a81b074f0b7b1",
   "lastOpenFiles": [
     "La última frontera de los necios/AA La última frontera de los necios.canvas",
     "La última frontera de los necios/El abuelo.md",
