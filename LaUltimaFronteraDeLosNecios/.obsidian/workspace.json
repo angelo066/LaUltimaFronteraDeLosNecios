@@ -15,9 +15,9 @@
               "state": {
                 "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
                 "viewState": {
-                  "x": 629.5,
-                  "y": 71.5,
-                  "zoom": -1.899580717765293
+                  "x": -774.5945135393382,
+                  "y": 752.23732753784,
+                  "zoom": -0.5
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
+                "file": "La última frontera de los necios/El pueblo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
+                "file": "La última frontera de los necios/El pueblo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas"
+                "file": "La última frontera de los necios/El pueblo.md"
               }
             }
           }
