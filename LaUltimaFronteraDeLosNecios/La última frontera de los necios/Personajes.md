@@ -7,10 +7,10 @@ El cura negro
 
 ### Pueblo:
 ----
-Los niños de los ojos de colores
+Los niños de los ojos de colores(Los pinturas) (Hijos de la Pintora)
 La muerte
-Pedrito maquinitas
-Los abuelos que juegan al ajedrez
+Pedrito maquinitas (Descripción capítulo 4) cassado con Pilar(Veterinaria)
+Los abuelos que juegan al ajedrez (Isido y Antonio)
 Señora que hace de vigia
 Los pichones
 El alcalde(El alcacerdo)
