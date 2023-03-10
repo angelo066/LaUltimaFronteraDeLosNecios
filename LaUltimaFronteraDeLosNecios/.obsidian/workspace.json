@@ -30,15 +30,30 @@
               "state": {
                 "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
                 "viewState": {
+                  "x": 1405.5578749058027,
+                  "y": -536.6607385079126,
+                  "zoom": -1.899580717765293
+                }
+              }
+            }
+          },
+          {
+            "id": "1f507cad673d43ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "La última frontera de los necios/AA La última frontera de los necios.canvas",
+                "viewState": {
                   "x": 1600,
-                  "y": -814,
+                  "y": -1800,
                   "zoom": 0
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f6982d5100762ad",
+  "active": "1f507cad673d43ab",
   "lastOpenFiles": [
-    "La última frontera de los necios/Via crucis.md",
+    "La última frontera de los necios/El buitre en traje.md",
     "La última frontera de los necios/AA La última frontera de los necios.canvas",
+    "La última frontera de los necios/Via crucis.md",
     "La última frontera de los necios/El abuelo.md",
     "La última frontera de los necios/Helena.md",
     "Templates/Personaje template.md",
@@ -193,7 +209,6 @@
     "Templates",
     "La última frontera de los necios",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/Versiculos interesantes.md",
-    "LaUltimaFronteraDeLosNecios/Templates/Personaje template.md",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios/AA La última frontera de los necios.canvas",
     "LaUltimaFronteraDeLosNecios/Templates",
     "LaUltimaFronteraDeLosNecios/La última frontera de los necios",

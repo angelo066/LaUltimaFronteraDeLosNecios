@@ -16,9 +16,10 @@
 		{"type":"file","file":"La última frontera de los necios/El abuelo.md","id":"83431ed0e27aa0c2","x":1800,"y":-335,"width":400,"height":400},
 		{"type":"file","file":"La última frontera de los necios/La tía de Miguel (Floristeria).md","id":"b2c234b0f839fd46","x":720,"y":400,"width":400,"height":400},
 		{"type":"file","file":"La última frontera de los necios/El padre de Miguel.md","id":"ecc5017cabd45a9c","x":1400,"y":400,"width":400,"height":400},
-		{"type":"file","file":"La última frontera de los necios/Miguel.md","id":"4d2c54afaa1e944d","x":1400,"y":1247,"width":400,"height":400},
 		{"type":"file","file":"La última frontera de los necios/El tio de Miguel (Agricultor).md","id":"6744f7313ce64dc7","x":2040,"y":400,"width":400,"height":400},
-		{"type":"file","file":"La última frontera de los necios/Via crucis.md","id":"c724f4e7d8424ba7","x":-1170,"y":-900,"width":410,"height":400}
+		{"type":"file","file":"La última frontera de los necios/Via crucis.md","id":"c724f4e7d8424ba7","x":-1170,"y":-900,"width":410,"height":400},
+		{"id":"3a9f8c330df09b4c","x":1400,"y":-2000,"width":400,"height":400,"type":"file","file":"La última frontera de los necios/El buitre en traje.md"},
+		{"type":"file","file":"La última frontera de los necios/Miguel.md","id":"4d2c54afaa1e944d","x":1400,"y":1160,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e3bfdd00c30316b5","fromNode":"a897e6ef23c59ba3","fromSide":"bottom","toNode":"b5f69618370892ca","toSide":"top"},
@@ -39,6 +40,7 @@
 		{"id":"4a426ece3740ae96","fromNode":"83431ed0e27aa0c2","fromSide":"bottom","toNode":"6744f7313ce64dc7","toSide":"top"},
 		{"id":"aeb8163cb5577557","fromNode":"d0c5923d6b1eb2a9","fromSide":"bottom","toNode":"b2c234b0f839fd46","toSide":"top"},
 		{"id":"eba4d3d332599c38","fromNode":"d0c5923d6b1eb2a9","fromSide":"bottom","toNode":"6744f7313ce64dc7","toSide":"top"},
-		{"id":"f02c301eae2c29c1","fromNode":"83431ed0e27aa0c2","fromSide":"bottom","toNode":"b2c234b0f839fd46","toSide":"top"}
+		{"id":"f02c301eae2c29c1","fromNode":"83431ed0e27aa0c2","fromSide":"bottom","toNode":"b2c234b0f839fd46","toSide":"top"},
+		{"id":"6318326ad646a2cd","fromNode":"c0e1c0a8f3dc8c55","fromSide":"top","toNode":"3a9f8c330df09b4c","toSide":"bottom"}
 	]
 }
